@@ -1,0 +1,15 @@
+.qualifications{
+    width: 100%;
+    height: 135vh;
+    background-color: #0d1220;
+    padding: 170px 0;
+  
+  }
+  @media screen and (max-width: 960px) {
+    .qualifications
+       {
+        
+      height: 235vh;
+          }
+     
+       }

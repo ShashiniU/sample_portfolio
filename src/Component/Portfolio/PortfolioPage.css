@@ -1,0 +1,102 @@
+.portfolio{
+    width: 100%;
+    height: 175vh;
+    background-color: #0d1220;
+    padding: 170px 0;
+  
+  }
+  @media screen and (max-width: 960px) {
+    .portfolio {
+        height: 500vh
+            }     
+       }
+       .portfolios-data{
+           margin-top: 70px;
+       }
+  .col6{
+      width: 33.33%;
+   
+  }
+  
+  @media screen and (max-width: 960px) {
+    .col6 {
+        width: 100%;
+            }     
+       }
+  .Prortfolio-boxes{
+      padding: 20px;
+      background:  #00827154;
+      border: 2px solid #008271 ;
+      ;
+      color: white;
+      margin: 30px;
+      font-family: 'Poppins', sans-serif;
+      border-radius: 20px;
+     
+      
+  }
+  
+  @media screen and (max-width: 960px) {
+    .Prortfolio-boxes {
+        margin:0;
+        margin-bottom: 60px;
+            }     
+       }
+  #row{
+      flex-wrap: wrap;
+      
+  }
+ 
+  .Prortfolio-boxes img{
+     
+   width: 320px;
+   height: 320px;
+   margin-left: -10px;
+   margin-top: 15px;
+cursor: pointer;
+  padding: 0;
+  
+  }
+  
+  #houseofcake{
+    height: 200px;
+  }
+  @media screen and (max-width: 960px) {
+    .Prortfolio-boxes img {
+        margin:0;
+        margin-left: 0;
+        
+            }     
+       }
+  #row{
+      flex-wrap: wrap;
+      
+  }
+  .boxHeading{
+   
+    font-size: 20px;
+        text-align: center;
+    font-weight: 700;
+    margin-top: 20px;
+  }
+  .boxcontent{
+    font-size: 12px;
+    text-align: left;
+    text-align: justify;
+    font-weight: 200;
+    margin-top: 25px;
+    letter-spacing: 1.2px;
+  }
+  .boxSubHeading{
+    font-size: 16px;
+    text-align: left;
+    font-weight: 500;
+    margin-top:30px;
+    letter-spacing: 1.2px;
+    margin-bottom: 15px;
+  }
+  #headerButton{
+      margin-top: 70px;
+      margin-bottom: 30px;
+  }
+  
